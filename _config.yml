@@ -70,4 +70,3 @@ theme: next
 deploy:
   type: git
   repository: git@github.com:zchen9/fragment.git
-  branch: gh-pages
