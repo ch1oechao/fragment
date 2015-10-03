@@ -18,6 +18,8 @@ menu:
 # Set rss to specific value if you have burned your feed already.
 rss:
 
+avatar: https://avatars3.githubusercontent.com/u/11719888?v=3&s=460
+
 # Icon fonts
 # Place your font into next/source/fonts, specify directory-name and font-name here
 # Avialable: default | linecons | fifty-shades | feather
@@ -59,7 +61,7 @@ toc_list_number: true
 # Automatically Excerpt
 auto_excerpt:
   enable: false
-  length: 150
+  length: 130
 
 # Use Lato font
 # Note: this option is avialable only when the language is not `zh-Hans`

@@ -22,6 +22,8 @@
     </div>
   </div>
 
+  {% include '_partials/comment.swig' %}
+
 {% endblock %}
 
 {% block sidebar %}

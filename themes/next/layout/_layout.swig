@@ -18,15 +18,6 @@
       <div class="header-inner"> {%- include '_partials/header.swig' %} </div>
     </header>
 
-    <div class="music">
-      <span class="music-icon">
-        <i class="fa fa-music"></i>
-      </span>
-      <div class="music-box">
-        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="http://music.163.com/outchain/player?type=0&id=106353209&auto=0&height=90"></iframe>
-      </div>
-    </div>
-
     <main id="main" class="main">
       <div class="main-inner">
         <div id="content" class="content"> {% block content %}{% endblock %} </div>
@@ -35,12 +26,10 @@
       {% block sidebar %}{% endblock %}
     </main>
 
-    <div class="main-inner">
-      <div id="disqus_thread" class="comment"></div>  
-    </div>
-
     <footer id="footer" class="footer">
-      <div class="footer-inner"> {% include '_partials/footer.swig' %} </div>
+      <div class="footer-inner">
+        {% include '_partials/footer.swig' %} 
+      </div>
     </footer>
 
   </div>
@@ -83,18 +72,6 @@
       });
     });
   </script>
-  
-  <script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'niceshot';
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 </body>
 </html>

@@ -18,11 +18,11 @@ sidebar:
   toc: 文章目录
 
 post:
-  posted: 发表于
-  in: 分类于
-  read_more: 阅读全文
-  untitled: 未命名
-  toc_empty: 此文章未包含目录
+  posted: 时戳
+  in: 来自
+  read_more: 想看！
+  untitled: 要标题干嘛
+  toc_empty: 空！
 
 page:
   totally: 共有
@@ -41,16 +41,16 @@ counter:
 
   categories:
     zero: 暂无分类
-    one: 目前共计 1 个分类
-    other: "目前共计 %d 个分类"
+    one: 一个分类哟
+    other: " %d 个分类啦"
 
   archive_posts:
     zero: 暂无碎片。
-    one: 累计 1 篇小文。
-    other: "累计 %d 篇小文。"
+    one: 收集了 1 块碎片。
+    other: "收集了 %d 块碎片！"
 
 state:
-  posts: 日志
+  posts: 碎片
   pages: 页面
   tags: 标签
   categories: 分类
@@ -63,7 +63,7 @@ cheers:
   great: 非常好
   excellent: 太棒了
 
-keep_on: 继续加油~
+keep_on: 写写写！~
 
 symbol:
   comma: '， '

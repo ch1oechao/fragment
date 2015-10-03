@@ -9,12 +9,15 @@
 {% endblock %}
 
 {% block content %}
+	{% include '_partials/music.swig' %}
+	
   <section id="posts" class="posts-expand">
     {% for post in page.posts %}
       {{ post_template.render(post, true) }}
     {% endfor %}
   </section>
 
+  {% include '_partials/comment.swig' %}
   {% include '_partials/pagination.swig' %}
 {% endblock %}
 
