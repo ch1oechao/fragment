@@ -69,4 +69,4 @@ theme: next
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:zchen9/fragment.git
+  repo: git@github.com:zchen9/fragment.git
