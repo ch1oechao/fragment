@@ -1,12 +1,12 @@
 title:
-  archive: 归档
-  category: 分类
+  archive: 时光轴
+  category: 系列
   tag: 标签
 
 menu:
   home: 主页
   archives: 时光轴
-  categories: 分类
+  categories: 系列
   tags: 标签
   about: 关于
   search: 搜索
@@ -40,9 +40,9 @@ counter:
     other: "目前共计 %d 个标签"
 
   categories:
-    zero: 暂无分类
-    one: 一个分类哟
-    other: " %d 个分类啦"
+    zero: 还没出系列啦
+    one: 只有一个系列哟
+    other: " %d 个系列集啦"
 
   archive_posts:
     zero: 暂无碎片。
@@ -53,7 +53,7 @@ state:
   posts: 碎片
   pages: 页面
   tags: 标签
-  categories: 分类
+  categories: 系列集
 
 cheers:
   um: 啊哈
