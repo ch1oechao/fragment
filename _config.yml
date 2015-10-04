@@ -7,6 +7,7 @@ title: Fragment
 subtitle: hey!
 description:
 author: zchen9
+email: zhao.zchen9@gmail.com
 language: zh-Hans
 timezone: 'Asia/Shanghai'
 
@@ -70,3 +71,4 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:zchen9/fragment.git
+  branch: gh-pages
