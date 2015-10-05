@@ -1,12 +1,16 @@
 title:
   archive: Archive
   category: Category
+  fragment: Fragment
   tag: Tag
+  message: Message
 
 menu:
   home: Home
   archives: Archives
   categories: Categories
+  messages: Messages
+  fragment: Fragment
   tags: Tags
   about: About
   search: Search

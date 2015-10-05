@@ -1,12 +1,16 @@
 title:
   archive: 时光轴
   category: 系列
+  fragment: 碎片集
   tag: 标签
+  message: 留言簿
 
 menu:
   home: 主页
   archives: 时光轴
   categories: 系列
+  messages: 留言簿
+  fragment: 碎片集
   tags: 标签
   about: 关于
   search: 搜索

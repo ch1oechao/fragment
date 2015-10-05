@@ -5,7 +5,7 @@
 # Site
 title: Fragment
 subtitle: hey!
-description:
+description: For life!
 author: zchen9
 email: zhao.zchen9@gmail.com
 language: zh-Hans
@@ -15,15 +15,14 @@ timezone: 'Asia/Shanghai'
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.chen9.info/fragment
 root: /fragment/
-permalink: :year/:month/:day/:title/
-permalink_defaults:
+permalink: :title/
 
 # Directory
 source_dir: source
 public_dir: /archives
 #tag_dir: tags
 #archive_dir: archives
-#category_dir: categories
+#category_dir: /categories
 #code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -53,7 +52,7 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: YYYY/MM/DD
 time_format: HH:mm:ss
 
 # Pagination
