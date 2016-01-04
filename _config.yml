@@ -67,7 +67,7 @@ theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: git@github.com:zchen9/fragment.git
-  branch: gh-pages
+deploy: 
+  type: git 
+  repo: git@github.com:zchen9/fragment.git 
+  branch: gh-pages 
