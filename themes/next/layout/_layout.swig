@@ -3,6 +3,7 @@
 <head>
   {% include '_partials/head.swig' %}
   <title>{% block title %}{% endblock %}</title>
+  <link rel="shortcut icon" href="//o40ss64l8.qnssl.com/favicon.png">
   <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.5.0/css/font-awesome.css">
 </head>
 
