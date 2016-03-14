@@ -3,7 +3,7 @@ category: 嘿，我想要你的歌单
 date: 2015-10-04
 ---
 
-![[ The Little Prince ]](//7xic0o.com1.z0.glb.clouddn.com/thelittleprince.png)
+![[ The Little Prince ]](//o40ss64l8.qnssl.com/thelittleprince.png)
 
 My life is very monotonous, I hunt chickens, men hunt me. All the chickens are just alike, and all the men are just alike. And, in consequence, I am a little bored. But if you tame me, it will be as if the sun came to shine on my life.
 

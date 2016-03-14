@@ -5,7 +5,7 @@ category: 嘿，我想要你的歌单
 ---
 从你叫什么名字开始，后来，有了一切。
 
-![](//7xic0o.com1.z0.glb.clouddn.com/love_affair.jpg)
+![](//o40ss64l8.qnssl.com/love_affair.jpg)
 
 <!--more-->
 

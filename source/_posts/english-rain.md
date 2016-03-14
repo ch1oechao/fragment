@@ -10,7 +10,7 @@ category: 嘿，我想要你的歌单
 
 整张专辑不仅写了雨也写了十一月 同时匹配这段时间的心情 真是完美 
 
-![](//p4.music.126.net/QxR0g_YpN48S7C7uAd7pLQ==/2370547069533759.jpg?param=300y300)
+![](http://p4.music.126.net/QxR0g_YpN48S7C7uAd7pLQ==/2370547069533759.jpg?param=300y300)
 
 <!-- more -->
 
