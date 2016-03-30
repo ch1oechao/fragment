@@ -22,6 +22,12 @@
 
   {% if theme.menu %}
     <ul id="menu" class="menu {{ hasSearch and 'menu-left' }}">
+      <li class="menu-item menu-item-home">
+        <a href="https://www.chen9.info" rel="section">
+          <i class="menu-item-icon icon-next-home"></i> <br />
+          主页
+        </a>
+      </li>
       {% for name, path in theme.menu %}
         {% set itemName = name.toLowerCase() %}
         <li class="menu-item menu-item-{{ itemName }}">
