@@ -16,6 +16,7 @@ since: 2015
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.chen9.info/fragment
 root: /fragment/
+baseurl: http://www.chen9.info/
 permalink: :year/:month/:day/:title/
 
 # Directory
@@ -53,8 +54,11 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY/MM/DD
+date_format: YYYY-MM-DD
 time_format: HH:mm:ss
+year_format: YYYY
+month_format: MM
+day_format: DD
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -64,7 +68,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: next
+theme: fragment
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
