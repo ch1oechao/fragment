@@ -4,7 +4,7 @@
 
 # Site
 title: Fragment
-subtitle: hey!
+subtitle: 你好哇
 description: For life!
 author: zchen9
 email: zhao.zchen9@gmail.com
@@ -21,11 +21,7 @@ permalink: :year/:month/:day/:title/
 
 # Directory
 source_dir: source
-public_dir: /archives
-#tag_dir: tags
-#archive_dir: archives
-#category_dir: /categories
-#code_dir: downloads/code
+
 i18n_dir: :lang
 skip_render:
 
@@ -45,20 +41,12 @@ highlight:
   auto_detect: true
   tab_replace:
 
-# Category & Tag
-default_category: uncategorized
-category_map:
-tag_map:
-
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: YYYY 年 MM 月 DD 日
 time_format: HH:mm:ss
-year_format: YYYY
-month_format: MM
-day_format: DD
 
 # Pagination
 ## Set per_page to 0 to disable pagination
