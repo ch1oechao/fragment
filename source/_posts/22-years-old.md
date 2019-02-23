@@ -1,4 +1,4 @@
-title: 22
+title: 22 岁
 date: 2016-11-20
 category: 啊，記錄碎片
 ---
@@ -130,12 +130,6 @@ Taylor 在 2012 年发行《22》的时候，我才 18 岁
 离年终还有一个月
 还要继续码字...嗯
 
-<center>
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=31517163&auto=1&height=66"></iframe>
-    间奏很美
-</center>
+---
 
-
-
-
-
+[《Catch in the Dark》 Passenger ](https://i.y.qq.com/v8/playsong.html?songid=102355318&source=yqq#wechat_redirect)

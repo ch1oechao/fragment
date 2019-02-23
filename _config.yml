@@ -14,9 +14,9 @@ since: 2015
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.chen9.info/fragment
+url: https://www.chen9.info/fragment
 root: /fragment/
-baseurl: http://www.chen9.info/
+baseurl: https://www.chen9.info/
 permalink: :year/:month/:day/:title/
 
 # Directory
