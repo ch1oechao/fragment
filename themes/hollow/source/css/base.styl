@@ -10,14 +10,20 @@ html
 
 p
   letter-spacing .1px
-  line-height 1.5
+  line-height 1.8
   margin 20px 0
   a
     text-decoration underline
 
-h1, h2, h3, h4, h5, h6
+h1, h2, h3
   @extend .serif
   font-weight 800
+  margin 32px 0 20px
+
+h4, h5, h6
+  @extend .serif
+  font-weight 500
+  margin 20px 0
 
 a
   color red
@@ -31,7 +37,7 @@ a img
 
 hr.small
   max-width 100px
-  margin 15px auto
+  margin 20px auto
   border-width 4px
   border-color white
   
@@ -139,6 +145,7 @@ nav
       width 30%
       height 100%
       font-size 2em
+      margin 21px 0
       &.archive
         font-size 22px
         width 100%
