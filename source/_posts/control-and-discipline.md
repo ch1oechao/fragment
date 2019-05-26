@@ -18,13 +18,13 @@ Spotify 没有评论
 克制需求
 控制选择
 
-感谢让我重拾博客的盆友们
-Hollow 主题做了一些细微优化
+感恩让我重拾博客的盆友们 🤣
+主题做了一些细微优化
 - 主页开放小相机
 - 微调阅读样式
 - 优化搜索功能
 
-作为主题作者，还是想小小任性一下
+不过难得是所有者，还是想小小任性一下 😏
 不为了满足所有人的需求
 你喜欢就喜欢
 
@@ -45,7 +45,7 @@ it was a lot of memories
 it was a lot of emotions
 and I want to only remember the good.
 
-— Tidying Up with Marie Kondo <Sparking Joy After a Loss> from Netflix
+— Tidying Up with Marie Kondo 「Sparking Joy After a Loss」 from Netflix
 
 > 
 这两年在学习管理自己的欲望 赚多少钱 找什么样的工作
@@ -59,4 +59,4 @@ and I want to only remember the good.
 向前 是一望无际的平淡
 向后 却是我从未年轻过
 
-— 尔今夏 from Twitter
+— [@Dispomanfaa](https://twitter.com/Dispomanfaa) from Twitter
