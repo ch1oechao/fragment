@@ -56,7 +56,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: hollow
+theme: hexo-hollow
+
+# Search
+search_placeholder: 找宝藏吗
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html

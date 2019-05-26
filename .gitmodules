@@ -1,0 +1,3 @@
+[submodule "themes/hexo-hollow"]
+	path = themes/hexo-hollow
+	url = https://github.com/zchen9/hexo-theme-hollow.git
