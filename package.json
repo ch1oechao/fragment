@@ -1,38 +1,38 @@
 {
-  "name": "fragment",
-  "version": "0.0.0",
-  "private": true,
-  "hexo": {
-    "version": "3.4.2"
-  },
-  "dependencies": {
-    "hexo": "^3.1.1",
-    "hexo-deployer-git": "0.0.4",
-    "hexo-generator-archive": "^0.1.2",
-    "hexo-generator-category": "^0.1.2",
-    "hexo-generator-feed": "^1.0.3",
-    "hexo-generator-index": "^0.1.2",
-    "hexo-generator-sitemap": "^1.0.1",
-    "hexo-generator-tag": "^0.1.1",
-    "hexo-renderer-ejs": "^0.1.0",
-    "hexo-renderer-marked": "^0.2.4",
-    "hexo-renderer-stylus": "^0.3.0",
-    "hexo-server": "^0.1.2"
-  },
-  "description": "For life ：）",
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zchen9/fragment.git"
-  },
-  "author": "zchen9",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/zchen9/fragment/issues"
-  },
-  "homepage": "https://github.com/zchen9/fragment#readme"
+    "name": "fragment",
+    "version": "0.0.0",
+    "private": true,
+    "hexo": {
+        "version": "3.9.0"
+    },
+    "dependencies": {
+        "hexo": "^3.1.1",
+        "hexo-deployer-git": "0.0.4",
+        "hexo-generator-archive": "^0.1.2",
+        "hexo-generator-category": "^0.1.2",
+        "hexo-generator-feed": "^1.0.3",
+        "hexo-generator-index": "^0.1.2",
+        "hexo-generator-sitemap": "^1.0.1",
+        "hexo-generator-tag": "^0.1.1",
+        "hexo-renderer-ejs": "^0.1.0",
+        "hexo-renderer-marked": "^0.2.4",
+        "hexo-renderer-stylus": "^0.3.0",
+        "hexo-server": "^0.1.2"
+    },
+    "description": "For life ：）",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zchen9/fragment.git"
+    },
+    "author": "zchen9",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/zchen9/fragment/issues"
+    },
+    "homepage": "https://github.com/zchen9/fragment#readme"
 }
