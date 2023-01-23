@@ -4,10 +4,10 @@
 
 # Site
 title: Fragment
-subtitle: 你好哇
+subtitle: 你好吗
 description: For life!
-author: zchen9
-email: zhao.zchen9@gmail.com
+author: ch1oechao
+email: chao.zchen9@gmail.com
 language: zh-Hans
 timezone: 'Asia/Shanghai'
 since: 2015
@@ -64,5 +64,5 @@ search_placeholder: 找宝藏吗
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/zchen9/fragment.git
+  repo: https://github.com/ch1oechao/fragment.git
   branch: gh-pages
