@@ -64,5 +64,5 @@ search_placeholder: 找宝藏吗
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/ch1oechao/fragment.git
+  repo: git@github.com:ch1oechao/fragment.git
   branch: gh-pages
