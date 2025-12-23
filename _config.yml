@@ -7,9 +7,9 @@ title: Fragment
 subtitle: 你好吗
 description: For life!
 author: ch1oechao
-email: chao.zchen9@gmail.com
+email: ch.ch1oechao@gmail.com
 language: zh-Hans
-timezone: 'Asia/Shanghai'
+timezone: "Asia/Shanghai"
 since: 2015
 
 # URL
@@ -18,12 +18,15 @@ url: https://www.chen9.info/fragment
 root: /fragment/
 baseurl: https://www.chen9.info/
 permalink: :year/:month/:day/:title/
+pretty_urls:
+  trailing_index: true
+  trailing_html: true
 
 # Directory
 source_dir: source
-
+public_dir: public
 i18n_dir: :lang
-skip_render:
+skip_render: []
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -34,11 +37,12 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+
 highlight:
   enable: true
   line_number: true
-  auto_detect: true
-  tab_replace:
+  auto_detect: false
+  tab_replace: ""
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
